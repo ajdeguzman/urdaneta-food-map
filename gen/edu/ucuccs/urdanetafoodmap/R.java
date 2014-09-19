@@ -23,24 +23,27 @@ public final class R {
     }
     public static final class drawable {
         public static final int cam=0x7f020000;
-        public static final int file=0x7f020001;
-        public static final int ic_launcher=0x7f020002;
-        public static final int icon3=0x7f020003;
-        public static final int map=0x7f020004;
-        public static final int star=0x7f020005;
+        public static final int custom_btn_shakespeare=0x7f020001;
+        public static final int file=0x7f020002;
+        public static final int food_blur=0x7f020003;
+        public static final int ic_launcher=0x7f020004;
+        public static final int icon3=0x7f020005;
+        public static final int map=0x7f020006;
+        public static final int star=0x7f020007;
     }
     public static final class id {
-        public static final int action_settings=0x7f08000a;
-        public static final int btncamera=0x7f080005;
-        public static final int frame1=0x7f080009;
-        public static final int imageButton2=0x7f080006;
-        public static final int imageButton3=0x7f080007;
-        public static final int imageButton4=0x7f080008;
-        public static final int login=0x7f080002;
-        public static final int password=0x7f080001;
-        public static final int signin=0x7f080003;
-        public static final int txtuser=0x7f080004;
-        public static final int username=0x7f080000;
+        public static final int action_settings=0x7f08000b;
+        public static final int btncamera=0x7f080006;
+        public static final int frame1=0x7f08000a;
+        public static final int imageButton2=0x7f080007;
+        public static final int imageButton3=0x7f080008;
+        public static final int imageButton4=0x7f080009;
+        public static final int login=0x7f080003;
+        public static final int password=0x7f080002;
+        public static final int signin=0x7f080004;
+        public static final int textView1=0x7f080000;
+        public static final int txtuser=0x7f080005;
+        public static final int username=0x7f080001;
     }
     public static final class layout {
         public static final int activity_main=0x7f030000;
@@ -98,5 +101,6 @@ public final class R {
  All customizations that are NOT specific to a particular API-level can go here. 
          */
         public static final int AppTheme=0x7f060001;
+        public static final int btnStyleShakespeare=0x7f060002;
     }
 }
